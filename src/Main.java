@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("----------------------------------");
-        FiguraTridimensional ortoedro = new Ortoedro(0,1,7);
+        FiguraTridimensional ortoedro = new Ortoedro(2,1,7);
 
         System.out.println(ortoedro.toString());
         System.out.println(ortoedro.calcularArea());
